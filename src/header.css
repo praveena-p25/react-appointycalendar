@@ -1,0 +1,35 @@
+.header_main {
+    background-color: rebeccapurple;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    padding: 10px;
+    color: whitesmoke;
+}
+.header_body {
+    padding: 10px;
+}
+.header_links{
+    position: absolute;
+    right: 0;
+    display: flex;
+}
+.header_link1, .header_link2{
+    margin-right: 50px;
+}
+.header_link3 {
+    margin-right: 20px;
+}
+.header_link_text {
+    text-decoration: none;
+    color: white;
+}
+.header_title_text {
+    cursor: not-allowed;
+}
+
+
+
+
+
